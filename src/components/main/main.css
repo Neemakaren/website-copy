@@ -1,0 +1,43 @@
+.cont {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    max-width: 100rem;
+    overflow: hidden;
+    background-color: white; 
+    padding-bottom: 50px;
+    
+    
+}
+.main {
+    width: 370px;
+    height: 600px;
+    overflow: hidden;
+    
+}
+
+.main-img {
+    /* aspect-ratio: 1 / 1;
+    object-fit: cover; */
+    padding: 2px;
+}
+
+.hero-img {
+    width: 100%;
+    object-fit: cover; 
+}
+
+.content {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid gray; 
+    line-height: 20px;
+}
+
+.mini-2 {
+    width: 100%;
+    padding: 8px;
+    
+}

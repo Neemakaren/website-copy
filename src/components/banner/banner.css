@@ -1,0 +1,24 @@
+.banner {
+    background-color: rgb(255,165,216);
+}
+
+.banner-content {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner-img {
+    padding: 8px 15px;
+    width: 12em;
+}
+.banner-img1 {
+    padding: 10px 20px;
+    width: 8em;
+}
+.banner-img2 {
+    padding: 10px 20px;
+    width: 17em;
+}

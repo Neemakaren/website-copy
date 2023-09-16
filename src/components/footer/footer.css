@@ -1,0 +1,31 @@
+.footer {
+    background-color: rgb(243,241,238);
+    padding: 20px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 7rem;
+    margin-right: 19rem;
+}
+
+.main-2 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    font-size: 13px;
+}
+
+.main-2 a {
+    padding-bottom: 5px;
+}
+
+.f-1 {
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+.f-date {
+    font-size: 14px;
+}

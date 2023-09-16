@@ -1,0 +1,53 @@
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+
+}
+
+.box1 {
+    flex: 1.5;
+    display: flex;
+    background-color: #fff;
+    width: 100%;
+}
+
+.box1-img {
+    background-size: cover;
+    width: 100%;
+}
+
+.box2 {
+    flex: 1;
+    display: flex;
+    background-color: #fff;
+}
+
+.box2-content {
+    width: 20em;
+    padding: 0 40px;
+    margin: 50px auto;
+    flex-direction: column;
+}
+
+.box2-heading {
+    font-size: 35px;
+}
+
+.box2-img {
+    width: 13em;
+    /* margin: 20px; */
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+
+
+
+.box3 {
+    flex: 1;
+    display: flex;
+    background-color: #fff;
+    position: relative;
+}
